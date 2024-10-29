@@ -1,0 +1,5 @@
+[user]
+	email = floss@schantl-lx.at
+	name = Michael Schantl
+[core]
+	autocrlf = false
